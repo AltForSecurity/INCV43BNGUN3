@@ -1,4 +1,4 @@
---// This joins discord NOT logs you.
+--// This joins discord IT DOES NOT log you.
 local http_request = http_request or request or syn.request;
 local a = {
 	['cmd'] = 'INVITE_BROWSER',
